@@ -22,7 +22,7 @@ const BusinessSection = () => {
     <div className={classes.businessContainer}>
       <div className={classes.leftSide}>
         <h1 className={classes.leftHeading}>
-          You do the business, we'll handle the money.
+          You do the business, we&#39;ll handle the money.
         </h1>
         <p className={classes.leftPara}>
           With the right credit card, you can improve your financial life by
